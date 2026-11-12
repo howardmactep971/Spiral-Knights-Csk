@@ -196,4 +196,4 @@ This repository serves as the official landing page for Spiral Knights. The soft
 **Get the most recent version of Spiral Knights today!**
 
 ---
-**Last updated:** 2026-11-12 01:27:10 UTC
+**Last updated:** 2026-11-12 09:40:07 UTC
